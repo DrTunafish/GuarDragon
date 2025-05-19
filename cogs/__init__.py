@@ -1,0 +1,1 @@
+# Bu dosya cogs klasörünün bir Python paketi olduğunu belirtir 
